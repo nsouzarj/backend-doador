@@ -12,4 +12,4 @@ Java versao 18
 
 - Esta API tem como objetivo fornecer dados para o aplicativo mobile
 
-- Observção favor mudar o apontamento do  host do abnco dea dados 
+- Observção favor mudar o apontamento do  host do bnco dea dados  mysqk
